@@ -1,0 +1,2 @@
+type,name,label,description,contact_email,has_oauth,has_saml
+Connected App,ConnectedApp,ConnectedApp,,,False,False

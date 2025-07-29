@@ -1,0 +1,3 @@
+name,label,status,type,description,element_count,variable_count,start_element
+Lead_Accepted_Create_Research_Task,Lead Accepted - Create Research Task,Active,AutoLaunchedFlow,reates research task when SDR accepts lead from queue and updates process step to Lead Research,2,0,Create_Lead_Research_Task
+Universal_Lead_Assignment_and_Processing,Universal Lead Assignment and Processing,Active,AutoLaunchedFlow,Automatically assigns new leads to appropriate SDR territories and updates process tracking fields for all lead sources,2,0,Apply_Lead_Assignment_Rules

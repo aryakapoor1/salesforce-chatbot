@@ -1,0 +1,25 @@
+type,name,component_type,has_controller,has_helper,has_style,is_app
+Lightning Component,standard__AppLauncher,aura,False,False,False,True
+Lightning Component,standard__Chatter,aura,False,False,False,True
+Lightning Component,standard__Community,aura,False,False,False,True
+Lightning Component,Sales_Operations,aura,False,False,False,True
+Lightning Component,standard__AllTabSet,aura,False,False,False,True
+Lightning Component,standard__Approvals,aura,False,False,False,True
+Lightning Component,standard__FlowsApp,aura,False,False,False,True
+Lightning Component,standard__LightningBolt,aura,False,False,False,True
+Lightning Component,standard__Sales,aura,False,False,False,True
+Lightning Component,Sales_Leader,aura,False,False,False,True
+Lightning Component,standard__ServiceConsole,aura,False,False,False,True
+Lightning Component,standard__LightningSales,aura,False,False,False,True
+Lightning Component,Inside_Sales,aura,False,False,False,True
+Lightning Component,standard__Service,aura,False,False,False,True
+Lightning Component,standard__HVSConsole,aura,False,False,False,True
+Lightning Component,standard__SalesCloudMobile,aura,False,False,False,True
+Lightning Component,standard__LightningService,aura,False,False,False,True
+Lightning Component,Success_Manager,aura,False,False,False,True
+Lightning Component,standard__SalesforceCMS,aura,False,False,False,True
+Lightning Component,standard__MSJApp,aura,False,False,False,True
+Lightning Component,standard__LightningSalesConsole,aura,False,False,False,True
+Lightning Component,standard__ExpressionSetConsole,aura,False,False,False,True
+Lightning Component,standard__Platform,aura,False,False,False,True
+Lightning Component,standard__Marketing,aura,False,False,False,True

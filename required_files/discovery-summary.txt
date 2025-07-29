@@ -1,0 +1,23 @@
+DISCOVERY RUN DETAILED SUMMARY
+================================================================================
+Correlation ID: cli-0723-iixk.disc-0723-t9j0
+Start Time: 2025-07-23T19:37:11.507784
+End Time: 2025-07-23T19:37:33.489469
+Duration: 21.981s
+Failure Policy: continue-on-error
+Overall Status: SUCCESS
+
+STATISTICS:
+  Total Steps: 7
+  Successful Steps: 7 (100.0%)
+  Failed Steps: 0
+
+ALL RESULTS:
+  SUCCESS: OrganizationInfoCollector: Organization information - Success
+  SUCCESS: ApiUsageCollector: API usage details - Success
+  SUCCESS: DeploymentHistoryCollector: Deployment history - Success
+  SUCCESS: GlobalObjectCollector: Global objects - Success
+  SUCCESS: MasterDataCollector: Master data - Success
+  SUCCESS: OrgLimitsCollector: Organization limits - Success
+  SUCCESS: MetadataTypesCollector: Metadata types - Success
+================================================================================

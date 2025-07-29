@@ -1,0 +1,32 @@
+type,name,label,description,object_permissions_count,user_permissions_count,apex_class_access_count
+Permission Set,Sales_User,Sales User,,0,1,0
+Permission Set,sfdcInternalInt__sfdc_activityplatform,sfdc.activityplatform,Permset for the 'sfdc.activityplatform' C2C integration,2,3,0
+Profile,Chatter External User,Chatter External User,,20,11,0
+Profile,Identity User,Identity User,,1,19,0
+Profile,Support Agent,Support Agent,Frontline support with limited access to sensitive data,36,45,0
+Profile,CPQ Integration User,CPQ Integration User,,14,5,0
+Profile,Minimum Access - Salesforce,Minimum Access - Salesforce,,5,4,0
+Profile,SDR,SDR,Limited access focused on lead generation and qualification,33,45,0
+Profile,Executive Sponsor,Executive Sponsor,,30,47,0
+Profile,Direct Sales,Direct Sales,Full sales access with limited service visibility for customer escalations,37,45,0
+Profile,Minimum Access - API Only Integrations,Minimum Access - API Only Integrations,,0,3,0
+Profile,Customer Success,Customer Success,Primary service role focused on customer success and case management,36,45,0
+Profile,Service Manager,Service Manager,,36,47,0
+Profile,Chatter Free User,Chatter Free User,,20,18,0
+Profile,ContractManager,ContractManager,,33,46,0
+Profile,Sales Manager,Sales Manager,,37,47,0
+Profile,Admin,Admin,,72,198,0
+Profile,Analytics Cloud Integration User,Analytics Cloud Integration User,,69,23,0
+Profile,Chatter Moderator User,Chatter Moderator User,,20,19,0
+Profile,Read Only,Read Only,,31,29,0
+Profile,Guest License User,Guest License User,,0,0,0
+Profile,Analytics Cloud Security User,Analytics Cloud Security User,,49,15,0
+Profile,Revenue Operations,Revenue Operations,,72,189,0
+Profile,SCIM Provisioning,SCIM Provisioning,,5,22,0
+Profile,Sales Engineer,Sales Engineer,Technical sales role with enhanced product and solution access,37,45,0
+Profile,SolutionManager,SolutionManager,,33,44,0
+Profile,Sales Insights Integration User,Sales Insights Integration User,,68,20,0
+Profile,End User,End User,,30,47,0
+Profile,Standard,Standard,,36,45,0
+Profile,Salesforce API Only System Integrations,Salesforce API Only System Integrations,,0,3,0
+Profile,MarketingProfile,MarketingProfile,,33,47,0

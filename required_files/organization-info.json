@@ -1,0 +1,12 @@
+{
+  "id" : "00DOv00000K1emHMAR",
+  "name" : "IntraAI",
+  "edition" : "Enterprise Edition",
+  "instance_url" : "https://whirlai--productdev.sandbox.my.salesforce.com",
+  "api_version" : "63.0",
+  "is_sandbox" : true,
+  "organization_type" : "Enterprise Edition",
+  "instance_name" : "USA244S",
+  "fiscal_year_start_month" : 1,
+  "Physical_Location" : "San Francisco, CA, USA"
+}

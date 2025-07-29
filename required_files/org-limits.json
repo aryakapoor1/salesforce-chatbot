@@ -1,0 +1,464 @@
+{
+  "DailyApiRequests" : {
+    "name" : "DailyApiRequests",
+    "Max" : 5000000,
+    "Remaining" : 4992612,
+    "used" : 7388,
+    "percentage_used" : 0.14776,
+    "is_near_limit" : false
+  },
+  "DailyGenericStreamingApiEvents" : {
+    "name" : "DailyGenericStreamingApiEvents",
+    "Max" : 10000,
+    "Remaining" : 10000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyStreamingApiEvents" : {
+    "name" : "DailyStreamingApiEvents",
+    "Max" : 200000,
+    "Remaining" : 200000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyEinsteinDiscoveryPredictAPICalls" : {
+    "name" : "DailyEinsteinDiscoveryPredictAPICalls",
+    "Max" : 50000,
+    "Remaining" : 50000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlySyncReportRuns" : {
+    "name" : "HourlySyncReportRuns",
+    "Max" : 500,
+    "Remaining" : 500,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyBulkApiBatches" : {
+    "name" : "DailyBulkApiBatches",
+    "Max" : 15000,
+    "Remaining" : 15000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DataStorageMB" : {
+    "name" : "DataStorageMB",
+    "Max" : 5120,
+    "Remaining" : 5120,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyMetadataRetrievesWithDependencies" : {
+    "name" : "DailyMetadataRetrievesWithDependencies",
+    "Max" : 25,
+    "Remaining" : 25,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyTimeBasedWorkflow" : {
+    "name" : "HourlyTimeBasedWorkflow",
+    "Max" : 1000,
+    "Remaining" : 1000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "MonthlyEinsteinDiscoveryStoryCreation" : {
+    "name" : "MonthlyEinsteinDiscoveryStoryCreation",
+    "Max" : 500,
+    "Remaining" : 500,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DurableStreamingApiConcurrentClients" : {
+    "name" : "DurableStreamingApiConcurrentClients",
+    "Max" : 1000,
+    "Remaining" : 1000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "Package2VersionCreatesWithoutValidation" : {
+    "name" : "Package2VersionCreatesWithoutValidation",
+    "Max" : 500,
+    "Remaining" : 500,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyEinsteinDiscoveryStoryCreation" : {
+    "name" : "DailyEinsteinDiscoveryStoryCreation",
+    "Max" : 100,
+    "Remaining" : 100,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyAsyncApexExecutions" : {
+    "name" : "DailyAsyncApexExecutions",
+    "Max" : 250000,
+    "Remaining" : 250000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyDashboardResults" : {
+    "name" : "HourlyDashboardResults",
+    "Max" : 5000,
+    "Remaining" : 5000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyDashboardRefreshes" : {
+    "name" : "HourlyDashboardRefreshes",
+    "Max" : 200,
+    "Remaining" : 200,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyPublishedStandardVolumePlatformEvents" : {
+    "name" : "HourlyPublishedStandardVolumePlatformEvents",
+    "Max" : 100000,
+    "Remaining" : 100000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "MaxContentDocumentsLimit" : {
+    "name" : "MaxContentDocumentsLimit",
+    "Max" : 30000000,
+    "Remaining" : 29999989,
+    "used" : 11,
+    "percentage_used" : 3.6666666666666666E-5,
+    "is_near_limit" : false
+  },
+  "DailyAnalyticsDataflowJobExecutions" : {
+    "name" : "DailyAnalyticsDataflowJobExecutions",
+    "Max" : 60,
+    "Remaining" : 60,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyManagedContentPublicRequests" : {
+    "name" : "HourlyManagedContentPublicRequests",
+    "Max" : 50000,
+    "Remaining" : 50000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "PublishCallbackUsageInApex" : {
+    "name" : "PublishCallbackUsageInApex",
+    "Max" : 5242880,
+    "Remaining" : 5242880,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "SingleEmail" : {
+    "name" : "SingleEmail",
+    "Max" : 5000,
+    "Remaining" : 5000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyAnalyticsUploadedFilesSizeMB" : {
+    "name" : "DailyAnalyticsUploadedFilesSizeMB",
+    "Max" : 51200,
+    "Remaining" : 51200,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyBulkV2QueryJobs" : {
+    "name" : "DailyBulkV2QueryJobs",
+    "Max" : 10000,
+    "Remaining" : 10000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ConcurrentSyncReportRuns" : {
+    "name" : "ConcurrentSyncReportRuns",
+    "Max" : 20,
+    "Remaining" : 20,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ContentPublicationLimit" : {
+    "name" : "ContentPublicationLimit",
+    "Max" : 200000,
+    "Remaining" : 200000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ContentDistViewLimit" : {
+    "name" : "ContentDistViewLimit",
+    "Max" : 50000,
+    "Remaining" : 50000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ConcurrentEinsteinDataInsightsStoryCreation" : {
+    "name" : "ConcurrentEinsteinDataInsightsStoryCreation",
+    "Max" : 5,
+    "Remaining" : 5,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ContentDistBandwidthLimitMB" : {
+    "name" : "ContentDistBandwidthLimitMB",
+    "Max" : 51200,
+    "Remaining" : 51200,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "PlatformEventTriggersWithParallelProcessing" : {
+    "name" : "PlatformEventTriggersWithParallelProcessing",
+    "Max" : 5,
+    "Remaining" : 5,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ConcurrentAsyncGetReportInstances" : {
+    "name" : "ConcurrentAsyncGetReportInstances",
+    "Max" : 200,
+    "Remaining" : 200,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyWorkflowEmails" : {
+    "name" : "DailyWorkflowEmails",
+    "Max" : 117000,
+    "Remaining" : 117000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyDashboardStatuses" : {
+    "name" : "HourlyDashboardStatuses",
+    "Max" : 999999999,
+    "Remaining" : 999999999,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyLongTermIdMapping" : {
+    "name" : "HourlyLongTermIdMapping",
+    "Max" : 100000,
+    "Remaining" : 100000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "PrivateConnectOutboundCalloutHourlyLimitMB" : {
+    "name" : "PrivateConnectOutboundCalloutHourlyLimitMB",
+    "Max" : 0,
+    "Remaining" : 0,
+    "used" : 0
+  },
+  "DailyAsyncApexTests" : {
+    "name" : "DailyAsyncApexTests",
+    "Max" : 500,
+    "Remaining" : 500,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyBulkV2QueryFileStorageMB" : {
+    "name" : "DailyBulkV2QueryFileStorageMB",
+    "Max" : 976562,
+    "Remaining" : 976562,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyDeliveredPlatformEvents" : {
+    "name" : "DailyDeliveredPlatformEvents",
+    "Max" : 25000,
+    "Remaining" : 25000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyElevateAsyncReportRuns" : {
+    "name" : "HourlyElevateAsyncReportRuns",
+    "Max" : 1200,
+    "Remaining" : 1200,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "FileStorageMB" : {
+    "name" : "FileStorageMB",
+    "Max" : 29696,
+    "Remaining" : 29695,
+    "used" : 1,
+    "percentage_used" : 0.003367456896551724,
+    "is_near_limit" : false
+  },
+  "HourlyElevateSyncReportRuns" : {
+    "name" : "HourlyElevateSyncReportRuns",
+    "Max" : 500,
+    "Remaining" : 500,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "Package2VersionCreates" : {
+    "name" : "Package2VersionCreates",
+    "Max" : 6,
+    "Remaining" : 6,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyEinsteinDataInsightsStoryCreation" : {
+    "name" : "DailyEinsteinDataInsightsStoryCreation",
+    "Max" : 1000,
+    "Remaining" : 1000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyODataCallout" : {
+    "name" : "HourlyODataCallout",
+    "Max" : 20000,
+    "Remaining" : 20000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyEinsteinDiscoveryPredictionsByCDC" : {
+    "name" : "DailyEinsteinDiscoveryPredictionsByCDC",
+    "Max" : 500000,
+    "Remaining" : 500000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyStandardVolumePlatformEvents" : {
+    "name" : "DailyStandardVolumePlatformEvents",
+    "Max" : 25000,
+    "Remaining" : 25000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyDurableGenericStreamingApiEvents" : {
+    "name" : "DailyDurableGenericStreamingApiEvents",
+    "Max" : 200000,
+    "Remaining" : 200000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "ConcurrentEinsteinDiscoveryStoryCreation" : {
+    "name" : "ConcurrentEinsteinDiscoveryStoryCreation",
+    "Max" : 2,
+    "Remaining" : 2,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "PermissionSets" : {
+    "name" : "PermissionSets",
+    "Max" : 1500,
+    "Remaining" : 1499,
+    "used" : 1,
+    "percentage_used" : 0.06666666666666667,
+    "is_near_limit" : false
+  },
+  "AnalyticsExternalDataSizeMB" : {
+    "name" : "AnalyticsExternalDataSizeMB",
+    "Max" : 40960,
+    "Remaining" : 40960,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyShortTermIdMapping" : {
+    "name" : "HourlyShortTermIdMapping",
+    "Max" : 100000,
+    "Remaining" : 100000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyPublishedPlatformEvents" : {
+    "name" : "HourlyPublishedPlatformEvents",
+    "Max" : 250000,
+    "Remaining" : 250000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyEinsteinDiscoveryOptimizationJobRuns" : {
+    "name" : "DailyEinsteinDiscoveryOptimizationJobRuns",
+    "Max" : 25,
+    "Remaining" : 25,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "MassEmail" : {
+    "name" : "MassEmail",
+    "Max" : 5000,
+    "Remaining" : 5000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "StreamingApiConcurrentClients" : {
+    "name" : "StreamingApiConcurrentClients",
+    "Max" : 1000,
+    "Remaining" : 1000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "HourlyAsyncReportRuns" : {
+    "name" : "HourlyAsyncReportRuns",
+    "Max" : 1200,
+    "Remaining" : 1200,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "DailyDurableStreamingApiEvents" : {
+    "name" : "DailyDurableStreamingApiEvents",
+    "Max" : 200000,
+    "Remaining" : 200000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  },
+  "CdpAiInferenceApiMonthlyLimit" : {
+    "name" : "CdpAiInferenceApiMonthlyLimit",
+    "Max" : 500000000,
+    "Remaining" : 500000000,
+    "used" : 0,
+    "percentage_used" : 0.0,
+    "is_near_limit" : false
+  }
+}
